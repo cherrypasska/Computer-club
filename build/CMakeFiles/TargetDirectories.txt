@@ -1,0 +1,3 @@
+/home/pavlusha/computer_club/build/CMakeFiles/ComputerClub.dir
+/home/pavlusha/computer_club/build/CMakeFiles/edit_cache.dir
+/home/pavlusha/computer_club/build/CMakeFiles/rebuild_cache.dir
